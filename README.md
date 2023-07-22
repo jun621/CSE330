@@ -1,6 +1,7 @@
 # CSE330 Summer 2023 Group4 Projects 
 
 ## Project1 
+
 1.a Create a new VM in  Virtual Box 
 
 1.b Install Ubuntu on the VM 
@@ -14,6 +15,9 @@
 
 ## Project2 
 
+
+
+2.a 
 
 
 
