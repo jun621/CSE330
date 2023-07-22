@@ -18,7 +18,7 @@ Configuration Step
 ## Project2: Process Management 
 In this project, we aim to tackle the producer-consumer problem, a classic synchronization challenge. To achieve this, we will develop a kernel module designed to work with the Linux VM. Solution will involve utilizing kernel threads to represent producers and consumers while employing kernel-space semaphores for efficient synchronization.
 
-Development Steps 
+### Development Steps 
 
 2.a Implement module interface and module_init
 
