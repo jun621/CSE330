@@ -20,10 +20,23 @@ In this project, we aim to tackle the producer-consumer problem, a classic synch
 
 Development Steps 
 
-2.a 
+2.a Implement module interface and module_init
+
+2.b Implement the producer thread which searches the system for all the processes that belong to a given user and
+adds their task_struct to the shared buffer.
+
+2.c Implement the consumer thread which  reads out the task_struct of the processes from the buffer and calculates
+the elapsed time for each process and the total elapsed time. 
+
+2.d Implement the module_exit signals all the active kernel threads to stop 
 
 
+## Project3: Memory Management 
+Develop a kernel module that effectively traverses the page tables of a specified process. Through this module, you will determine the following key metrics: the number of process pages residing in physical memory (RSS), the count of pages swapped out to disk (SWAP), and the size of the process's working set (WSS). 
 
+Development Steps 
 
-## Project3 
+3.a Implement the module_init 
+
+3.b 
 
