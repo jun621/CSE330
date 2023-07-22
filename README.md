@@ -46,7 +46,7 @@ Develop a kernel module that effectively traverses the page tables of a specifie
 
 3.e Measure the WSS, SWAP, RSS, periodically 
 
-3.f Testing criteria (Outputs of tesing cases are given in the source code file)
+3.f Testing criteria (Outputs of tesing cases are given in the Test cases file)
 * set VM to use 4GB of memory
   
 * Module should be loaded and unloaded successfully
